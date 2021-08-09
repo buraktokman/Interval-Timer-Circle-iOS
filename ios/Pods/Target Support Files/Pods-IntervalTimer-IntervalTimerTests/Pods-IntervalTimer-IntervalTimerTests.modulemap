@@ -1,0 +1,6 @@
+module Pods_IntervalTimer_IntervalTimerTests {
+  umbrella header "Pods-IntervalTimer-IntervalTimerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
